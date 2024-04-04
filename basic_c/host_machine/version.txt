@@ -1,0 +1,9 @@
+/*****************
+*
+* Copyright stated here...
+* All Rights Reserved
+*
+* 2024/04/04 - version 0.0 - project initialized
+*
+*****************/
+# define VERSION "v0.0"
