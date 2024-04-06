@@ -17,7 +17,7 @@
 #define __COMPUTATION_H__
 
 /* Includes */
-
+#include <stdint.h>
 
 /* Defines */
 
